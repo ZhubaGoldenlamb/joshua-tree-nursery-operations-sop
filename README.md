@@ -51,7 +51,7 @@ Responsibilities included task allocation, safety oversight, workflow organizati
 
 ![Volunteers Planting](MEDIA/volunteers_planting.jpg)
 
-![Staff Inventory & Supervision](MEDIA/staff_inventory.jpg)
+![Staff Inventory & Supervision](MEDIA/staff_inventory.PNG)
 
 ---
 
